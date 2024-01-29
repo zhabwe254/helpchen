@@ -1,0 +1,5 @@
+Create a GitHub account and clone repos to the local machine (github.txt):
+
+Visit https://github.com and sign up for an account.
+After signing in, create a new repository named helpchen.
+On the local machine, use the command: git clone https://github.com/your-username/techtraining.git to clone ypur repository.

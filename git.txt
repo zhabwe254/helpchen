@@ -1,0 +1,6 @@
+How to install git on a local machine (git.txt):
+
+Open a terminal or command prompt.
+Download Git from https://git-scm.com/downloads.
+Run the installer and follow the on-screen instructions.
+Verify the installation using the command: git --version.
